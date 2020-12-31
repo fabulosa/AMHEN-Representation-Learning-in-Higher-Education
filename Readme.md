@@ -19,5 +19,9 @@ Preprocessed files required to train the AMHEN in our paper on an enrollment dat
 	* pip install -r requirements.txt
 
 ### Training Commands: 
+* For data without course attributes:
 
-* python3 src_attri/main.py
+	* python src/main.py
+	
+* For data with course attributes:
+	* python src_attri/main.py
