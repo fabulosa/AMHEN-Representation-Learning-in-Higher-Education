@@ -3,7 +3,7 @@
 ### [Publication](https://educationaldatamining.org/files/conferences/EDM2020/papers/paper_65.pdf) | [Presentation](https://www.youtube.com/watch?v=wy_oA1_zmWc&t=58s):
 Evaluating sources of course information and models of representation on a variety of institutional prediction tasks, [Weijie Jiang](jennywjjiang.com) and [Zachary Pardos](https://gse.berkeley.edu/zachary-pardos). In *Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020)*.
 
-This repo includes codes for training the proposed Attributed Multiplex Heterogeneous Network (AMHEN) to learn student and course (grade) embeddings, which was inspired by the paper:
+This repo includes code for training the proposed Attributed Multiplex Heterogeneous Network (AMHEN) to learn student and course (grade) embeddings, which was inspired by the paper:
 
 * Cen, Y., Zou, X., Zhang, J., Yang, H., Zhou, J. and Tang, J., 2019, July. Representation learning for attributed multiplex heterogeneous network. In Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (pp. 1358-1368).
 
